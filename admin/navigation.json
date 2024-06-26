@@ -1,13 +1,13 @@
 {
-  "section": "orders",
-  "titleId": "admin-example.navigation.label-group",
+  "section": "customer",
+  "titleId": "chinese-cookies.navigation.label-group",
   "subSection": "example",
-  "searchKeyWordsHelpers": "admin-example.navigation.search.kws",
+  "searchKeyWordsHelpers": "chinese-cookies.navigation.search.kws",
   "subSectionItems": [
     {
-      "labelId": "admin-example.navigation.label-table",
-      "path": "/admin/example",
-      "searchKeyWordsHelpers": "admin-example.navigation.table.search.kws"
+      "labelId": "chinese-cookies.navigation.label-table",
+      "path": "/admin/chinese-cookies",
+      "searchKeyWordsHelpers": "chinese-cookies.navigation.table.search.kws"
     }
   ]
 }

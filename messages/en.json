@@ -1,9 +1,8 @@
 {
-  "admin-example.navigation.label-group": "Example admins",
-  "admin-example.navigation.label-table": "Example table",
-  "admin-example.navigation.search.kws": "test, mock, fake",
-  "admin-example.navigation.details.search.kws": "details, mock, test, hello",
-  "admin-example.navigation.table.search.kws": "table, mock, test, bye",
-  "admin-example.hello-world": "Example Admin",
-  "admin-example.details": "Details page"
+  "chinese-cookies.navigation.label-group": "Fortune cookies",
+  "chinese-cookies.navigation.label-table": "Fortune cookies",
+  "chinese-cookies.navigation.search.kws": "test, mock, fake",
+  "chinese-cookies.navigation.details.search.kws": "details, mock, test, hello",
+  "chinese-cookies.navigation.table.search.kws": "table, mock, test, bye",
+  "chinese-cookies.title": "Fortune cookies"
 }

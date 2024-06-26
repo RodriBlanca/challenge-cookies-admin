@@ -1,0 +1,11 @@
+mutation deletePhrase (
+  $acronym: String!
+  $documentId: String!
+) {
+  deleteDocument(
+    acronym: $acronym
+    documentId: $documentId
+  ) @context (provider: "vtex.store-graphql") {
+    id
+  }
+}

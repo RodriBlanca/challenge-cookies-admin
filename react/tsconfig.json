@@ -5,7 +5,13 @@
     "jsx": "react",
     "lib": ["es2017", "dom"],
     "module": "esnext",
-    "strict": true
+    "strict": true,
+    "baseUrl": "./",
+    "paths": {
+      "@utils/*": ["src/utils/*"],
+      "@components/*": ["src/components/*"]
+    },
+    "moduleResolution": "node"
   },
   "include": ["./**/*"],
   "exclude": ["node_modules"]

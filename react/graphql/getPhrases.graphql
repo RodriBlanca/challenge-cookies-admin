@@ -1,0 +1,17 @@
+query getPhrases(
+  $acronym: String
+  $fields: [String]
+  $pageSize: Int
+) {
+  documents (
+    acronym: $acronym
+    fields: $fields
+    pageSize: $pageSize
+  ) @context(provider: "vtex.store-graphql") {
+    fields {
+      key
+      value
+    }
+    id
+  }
+}

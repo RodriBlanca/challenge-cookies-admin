@@ -6,3 +6,13 @@ body,
 .render-provider {
   height: 100%;
 }
+
+.cookies-admin--options {
+  display: flex;
+  align-items: flex-end;
+}
+
+.cookies-admin--options .vtex-button {
+  height: 36px;
+  margin-left: 10px;
+}

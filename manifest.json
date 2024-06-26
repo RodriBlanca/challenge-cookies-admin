@@ -1,15 +1,17 @@
 {
-  "name": "admin-example",
-  "vendor": "vtex",
-  "version": "0.0.12",
-  "title": "Example Admin App",
+  "name": "chinese-cookies-admin",
+  "vendor": "valtech",
+  "version": "5.1.0",
+  "title": "Chinese Cookies Admin App",
   "description": "",
   "mustUpdateAt": "2022-08-28",
   "scripts": {
     "postreleasy": "vtex publish"
   },
   "dependencies": {
-    "vtex.styleguide": "9.x"
+    "vtex.styleguide": "9.x",
+    "vtex.store-graphql": "2.x",
+    "vtex.render-runtime": "8.x"
   },
   "builders": {
     "react": "3.x",

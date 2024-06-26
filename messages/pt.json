@@ -1,9 +1,8 @@
 {
-  "admin-example.navigation.label-group": "Admin de exemplo",
-  "admin-example.navigation.label-table": "Exemplo de tabela",
-  "admin-example.navigation.search.kws": "teste, mock, fake",
-  "admin-example.navigation.details.search.kws": "detalhe, mock, test, oi",
-  "admin-example.navigation.table.search.kws": "tabela, mock, test, tchau",
-  "admin-example.hello-world": "Admin de exemplo",
-  "admin-example.details": "Admin detalhes"
+  "chinese-cookies.navigation.label-group": "Biscoitos da sorte",
+  "chinese-cookies.navigation.label-table": "Biscoitos da sorte",
+  "chinese-cookies.navigation.search.kws": "teste, mock, fake",
+  "chinese-cookies.navigation.details.search.kws": "detalhe, mock, test, oi",
+  "chinese-cookies.navigation.table.search.kws": "tabela, mock, test, tchau",
+  "chinese-cookies.title": "Biscoitos da sorte"
 }
